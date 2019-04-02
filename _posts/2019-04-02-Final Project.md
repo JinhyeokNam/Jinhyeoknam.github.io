@@ -14,7 +14,7 @@ The beating of the heart is said to be A tone. The sound A, the most comfortable
 So the A sound frequency is 430 Hz and I expressed 430 Hz to the speaker. <br>
 그래서 A 소리의 주파수를 찾아보니 430Hz 정도라고 하여 나는 스피커에 430Hz로 주파수를 주었다.. 
 
-And when I exercise, I try to figure out two cases. <br>
+when I normal bpm and exercise, I try to figure out two cases. <br>
 그리고 평상시와 운동했을시 두가지의 경우를 적용해서 파악하고자한다.
 
 ![biolabseoul]({{site.baseurl}}/images/bio final project/1.png)
@@ -37,7 +37,7 @@ PCA만들 때 전자레인지를 사용했는데,,,너무 힘들었다,,, 그속
 
 
 And I made a device for the experiment.  <br>
-그리고 나는 실험을 위해 디바이스를 만들었다. 
+그리고 나는 실험을 위해 디바이스를 만들었다. <br>
 I have 3D printing, laser cutting, aduino, LCD, LED, heartbeat sensor, speaker, mini-breadboard, etc. <br>
 필요한 준비물로는 3D프린팅, 레이저커팅, 아두이노우노, LCD, LED2개, 심박센서, 스피커, 미니브레드보드, 이다.
 
@@ -77,7 +77,7 @@ So I finished the device. <br>
 
 I used Janthinobacterium lividum (JL).  <br>
 The reason is that it breeds well in PCA, its color changes well in purple, and it can grow at room temperature. <br>
-나는 Janthinobacterium lividum(JL)을 사용했다. 
+나는 Janthinobacterium lividum(JL)을 사용했다. <br>
 이유는 그것은 PCA에서 번식을 잘하며 색상은 보라색으로 변화를 잘 볼 수 있고 상온에서 기를수 있기 때문이다.
 
 
