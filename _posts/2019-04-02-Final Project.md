@@ -1,3 +1,4 @@
+![biolabseoul]({{site.baseurl}}/images/bio final project/0.png)
 People are said to be more efficient if they exercise to match their heart sounds. <br>
 사람은 자신의 심장 소리에 맞춰 운동을 하면 효율이 더 올라간다고 한다. 
 
@@ -103,22 +104,22 @@ But I don't have an action cam...
 I finally made a total of four cases and waited two days (48 hours).
 최종 적으로 총 4가지의 경우를 만들었고 이틀(48시간)을 기다렸다.
 
-![biolabseoul]({{site.baseurl}}/images/bio final project/23.jpg)
+![biolabseoul]({{site.baseurl}}/images/bio final project/25.jpg)
 
 The above picture is JL cultured  without a heartbeat.
 위 사진은 심장박동 진동 없이 배양된 JL이다.
 
-![biolabseoul]({{site.baseurl}}/images/bio final project/24.jpg)
+![biolabseoul]({{site.baseurl}}/images/bio final project/26.jpg)
 
 This is when you are normally vibrated at 80BPM.
 위 사진은 평상시 80BPM을 진동을 받을 때 이다.
 
-![biolabseoul]({{site.baseurl}}/images/bio final project/25.jpg)
+![biolabseoul]({{site.baseurl}}/images/bio final project/27.jpg)
 
 This is when you are vibrated at 160BPM during exercise.
 위 사진은 운동시 160BPM의 진동을 받을 때 이다.
 
-![biolabseoul]({{site.baseurl}}/images/bio final project/26.jpg)
+![biolabseoul]({{site.baseurl}}/images/bio final project/28.jpg)
 
 This gave low-pitched vibrations at 250bpm and 50hz.
 위사진은 진동을 250bpm 그리고 50hz로 저음의 진동을 주었다.
@@ -133,7 +134,7 @@ It is so sad... Before taking pictures, I could see the vibrations spreading fur
 
 너무 슬프다... 사진 찍기전에는 진동을 받은 미생물이 더 확산되는 모습을 확인할 수있었다. 다만 그모습을 사진으로 못 남겼다...
 
-'m going to take a picture again later.
+I'm going to take a picture again later.
 추후에 다시 사진을 찍을 예정이다. 
 
 As a result, the rate of diffusion and distribution of microorganisms was determined by the vibration of the heart.
