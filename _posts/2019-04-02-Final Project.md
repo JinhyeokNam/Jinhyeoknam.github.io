@@ -1,4 +1,4 @@
-People are said to be more efficient if they exercise to match their heart sounds.
+People are said to be more efficient if they exercise to match their heart sounds. <br>
 사람은 자신의 심장 소리에 맞춰 운동을 하면 효율이 더 올라간다고 한다. 
 
 Then, what effect would microbes have on human heart sounds?!
@@ -102,6 +102,66 @@ But I don't have an action cam...
 
 I finally made a total of four cases and waited two days (48 hours).
 최종 적으로 총 4가지의 경우를 만들었고 이틀(48시간)을 기다렸다.
+
+![biolabseoul]({{site.baseurl}}/images/bio final project/23.jpg)
+
+The above picture is JL cultured  without a heartbeat.
+위 사진은 심장박동 진동 없이 배양된 JL이다.
+
+![biolabseoul]({{site.baseurl}}/images/bio final project/24.jpg)
+
+This is when you are normally vibrated at 80BPM.
+위 사진은 평상시 80BPM을 진동을 받을 때 이다.
+
+![biolabseoul]({{site.baseurl}}/images/bio final project/25.jpg)
+
+This is when you are vibrated at 160BPM during exercise.
+위 사진은 운동시 160BPM의 진동을 받을 때 이다.
+
+![biolabseoul]({{site.baseurl}}/images/bio final project/26.jpg)
+
+This gave low-pitched vibrations at 250bpm and 50hz.
+위사진은 진동을 250bpm 그리고 50hz로 저음의 진동을 주었다.
+
+You will wonder at the image of these things
+위 이미지를 보고 의아해할 것이다.
+
+In fact, my mistake erased the microbial.There was a problem when I took the petri dish off the device without thinking about the water.
+사실은 나의 실수로 미생물이 지워졌다.수분을 생각 못하고 디바이스에서 페트리 디쉬를 뺄때 문제가 생겼다.
+
+It is so sad... Before taking pictures, I could see the vibrations spreading further. But I couldn't leave that image as a picture
+
+너무 슬프다... 사진 찍기전에는 진동을 받은 미생물이 더 확산되는 모습을 확인할 수있었다. 다만 그모습을 사진으로 못 남겼다...
+
+'m going to take a picture again later.
+추후에 다시 사진을 찍을 예정이다. 
+
+As a result, the rate of diffusion and distribution of microorganisms was determined by the vibration of the heart.
+결과적으로 심장의 진동으로 인해 미생물의 확산속도와 분포도를 파악하고자 했다.
+
+I think it affected the rate of diffusion and distribution a lot.
+나는 확산속도와 분포도에 영향을 많이 미쳤다고 생각한다.  
+
+I think I can have a similar role as a rotating incubator through vibrations.
+진동을통해 회전인큐베이터와 비슷한 역할을 할 수 있지않을까란 생각이 든다. 
+
+Thank you for listening to my presentation.
+나의 발표를 들어줘서 감사하다.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
