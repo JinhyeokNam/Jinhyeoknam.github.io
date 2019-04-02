@@ -143,7 +143,7 @@ As a result, the rate of diffusion and distribution of microorganisms was determ
 I think it affected the rate of diffusion and distribution a lot. <br>
 나는 확산속도와 분포도에 영향을 많이 미쳤다고 생각한다.  
 
-I think I can have a similar role as a rotating incubator through vibrations. <br>
+I think It can have a similar role as a rotating incubator through vibrations. <br>
 진동을통해 회전인큐베이터와 비슷한 역할을 할 수 있지않을까란 생각이 든다. 
 
 Thank you for listening to my presentation. <br>
